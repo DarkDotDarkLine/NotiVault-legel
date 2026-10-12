@@ -84,7 +84,7 @@ Uninstalling the NotiVault application from your Android device automatically de
 
 ## 6. Children’s Privacy Policy (COPPA Compliance)
 
-NotiVault is a general audience utility tool and is not intended for children under 13 years of age (or under 16 years in the European Union). We do not knowingly collect, store, or solicit personal data from children. If you believe a minor has provided us with personal data, please contact `support@opusvale.com` immediately so we can investigate and remove any associated records.
+NotiVault is a general audience utility tool and is not intended for children under 13 years of age (or under 16 years in the European Union). We do not knowingly collect, store, or solicit personal data from children. If you believe a minor has provided us with personal data, please contact `darkdotdarkline@gmail.com` immediately so we can investigate and remove any associated records.
 
 ---
 
@@ -118,4 +118,4 @@ If you have any questions, concerns, legal inquiries, or feedback regarding this
 - **Developer / Publisher:** OpusVale
 - **Application:** NotiVault (`com.opusvale.notivault`)
 - **Support Email:** `darkdotdarkline@gmail.com`
-- **Website:** `https://github.com/opusvale/notivault-android`
+- **Website:** `https://github.com/opusvale/notivault-legal`
