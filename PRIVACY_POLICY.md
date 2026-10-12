@@ -4,7 +4,7 @@
 **Application Name:** NotiVault (Notification Saver & Vault)  
 **Package Name:** `com.opusvale.notivault`  
 **Developer Organization:** OpusVale  
-**Official Support Email:** `support@opusvale.com`
+**Official Support Email:** `darkdotdarkline@gmail.com`
 
 ---
 
@@ -117,5 +117,5 @@ If you have any questions, concerns, legal inquiries, or feedback regarding this
 
 - **Developer / Publisher:** OpusVale
 - **Application:** NotiVault (`com.opusvale.notivault`)
-- **Support Email:** `support@opusvale.com`
+- **Support Email:** `darkdotdarkline@gmail.com`
 - **Website:** `https://github.com/opusvale/notivault-android`
